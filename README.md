@@ -16,8 +16,10 @@ Soy un desarrollador apasionado especializado en **Angular** e **Ionic**. Me ded
 - **Frontend:**
   - Angular
   - Ionic
-  - HTML5, CSS3, JavaScript, TypeScript
-  - Sass, Less
+  - React
+  - Meteor
+  - HTML5, CSS, JavaScript, TypeScript
+  - Sass
 
 - **Backend:**
   - Node.js
@@ -28,6 +30,7 @@ Soy un desarrollador apasionado especializado en **Angular** e **Ionic**. Me ded
   - Git, GitHub
   - Agile, Scrum
   - Docker
+  - Cypress
 
 ## Contacto
 

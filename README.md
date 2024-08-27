@@ -35,6 +35,8 @@ Soy un desarrollador apasionado especializado en **Angular** e **Ionic**. Me ded
 - 💼 **LinkedIn:** [Perfil de LinkedIn]([https://www.linkedin.com/in/bertus](https://www.linkedin.com/in/alberto-sanchez-full-stack/))
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme para cualquier colaboración o proyecto interesante.
+![Coding Animation](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+
 
 <!---
 Bertus8/Bertus8 es un ✨ repositorio especial ✨ porque su `README.md` (este archivo) aparece en tu perfil de GitHub.

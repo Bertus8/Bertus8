@@ -29,19 +29,10 @@ Soy un desarrollador apasionado especializado en **Angular** e **Ionic**. Me ded
   - Agile, Scrum
   - Docker
 
-## Proyectos Destacados
-
-### Proyecto 1: [Nombre del Proyecto]
-Descripción breve del proyecto, tecnologías usadas y tu rol en el mismo.
-
-### Proyecto 2: [Nombre del Proyecto]
-Descripción breve del proyecto, tecnologías usadas y tu rol en el mismo.
-
 ## Contacto
 
-- 📧 **Email:** bertus@example.com
-- 💼 **LinkedIn:** [Perfil de LinkedIn](https://www.linkedin.com/in/bertus)
-- 🌐 **Sitio Web:** [Tu Sitio Web](https://www.tusitioweb.com)
+- 📧 **Email:** albertinisp@gmail.com
+- 💼 **LinkedIn:** [Perfil de LinkedIn]([https://www.linkedin.com/in/bertus](https://www.linkedin.com/in/alberto-sanchez-full-stack/))
 
 ¡Gracias por visitar mi perfil! No dudes en contactarme para cualquier colaboración o proyecto interesante.
 

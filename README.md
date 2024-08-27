@@ -19,6 +19,8 @@ Soy un desarrollador apasionado especializado en **Angular** e **Ionic**. Me ded
   - React
   - Meteor
   - HTML5, CSS, JavaScript, TypeScript
+  - Android Studio
+  - Xcode
   - Sass
 
 - **Backend:**
@@ -31,6 +33,8 @@ Soy un desarrollador apasionado especializado en **Angular** e **Ionic**. Me ded
   - Agile, Scrum
   - Docker
   - Cypress
+  - Google Console
+  - Apple Developer
 
 ## Contacto
 
